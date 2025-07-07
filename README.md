@@ -1,7 +1,7 @@
-##📄 TextUtils – Text Utility Web App ##
+##📄 TextUtils – Text Utility Web App 
 TextUtils is a React-based web application that provides a set of handy tools to manipulate and analyze text. It’s designed to help users perform common text operations quickly and efficiently within a simple and user-friendly interface.
 
-##✅ Features##
+##✅ Features
 
 🔠 Convert text to uppercase or lowercase
 
@@ -15,7 +15,7 @@ TextUtils is a React-based web application that provides a set of handy tools to
 
 💡 Toggle between light and dark mode for better user experience
 
-##⚙️ Tech Stack##
+##⚙️ Tech Stack
 React JS – UI development
 
 JavaScript – Core logic
@@ -24,5 +24,8 @@ Bootstrap or Tailwind CSS – Styling and responsiveness (optional)
 
 
 
-##🎯 Project Goal##
+##🎯 Project Goal
 To create a responsive and interactive tool that makes text formatting and analysis more accessible, especially for students, writers, and developers.
+
+##OUTPUT
+![Image](https://github.com/user-attachments/assets/b81eec98-cc2d-4fc4-bf4a-485c9cd2f8f3)
