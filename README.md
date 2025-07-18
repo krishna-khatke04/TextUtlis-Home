@@ -20,7 +20,7 @@ React JS – UI development
 
 JavaScript – Core logic
 
-Bootstrap or Tailwind CSS – Styling and responsiveness (optional)
+Bootstrap or  CSS – Styling and responsiveness (optional)
 
 
 
